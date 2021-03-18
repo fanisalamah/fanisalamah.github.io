@@ -8,12 +8,13 @@ main {
 }
 
 header {
-  padding-top:60px;
+  padding-top:200px;
   text-align: center;
   line-height: 15px;
   font-style:normal;
-  background-color:yellow;
-  height:300px;
+  background-color:white;
+  height:500px;
+  border-bottom: 1px solid grey;
 }
 
 header h1 {
