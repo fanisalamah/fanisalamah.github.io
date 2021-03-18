@@ -1,0 +1,43 @@
+* {
+  font-family: 'Google Sans';
+}
+
+main {
+  width:100%;
+  text-align: center;
+  line-height: 15px;
+  font-style:normal;
+  height:300px;
+  padding-top:60px;
+  background-color:yellow;
+}
+
+main h1 {
+  font-size:55px;
+  font-style: bold;
+}
+
+button {
+  width:100px;
+  height:40px;
+  border-radius: 5px;
+  border:none;
+  color:white;
+  background-color:rgb(31, 110, 228);
+  box-shadow:2px 2px 8px grey; 
+  margin:10px 5px;
+}
+
+.secondary {
+  background-color:white;
+  color:rgb(31, 110, 228);
+  border:none;
+}
+
+button:focus {
+  border-color: white;
+}
+
+button:active {
+  border-color: white;
+}
