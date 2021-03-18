@@ -9,7 +9,7 @@ main {
   font-style:normal;
   height:300px;
   padding-top:60px;
-  background-color:yellow;
+  background-color:white;
 }
 
 main h1 {
@@ -38,6 +38,7 @@ button:focus {
   border-color: white;
 }
 
-button:active {
-  border-color: white;
+buttono {
+  border-color:red;
+  background-color:yellow;
 }
