@@ -64,3 +64,14 @@ a {
 .about-me h1 {
   padding-top:200px;
 }
+
+.side-left {
+  float: left;
+}
+.circular-image {
+  border: 0px solid #000000;
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+  border-radius: 50%;
+}
